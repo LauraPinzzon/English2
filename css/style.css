@@ -1,3 +1,10 @@
 .imagen-perfil {
-	border-radius: 200%;
+	height:400px;
+    width: 400px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+	
 }
